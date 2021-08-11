@@ -1,0 +1,7 @@
+Things left on todos 
+	- Finish Score Keeping
+	- Finish Stats
+	- Finish Stat/match info Send functionality
+	- Ready to start Testing
+	- add randomization functionality for admin
+	- add match naming for andrew
