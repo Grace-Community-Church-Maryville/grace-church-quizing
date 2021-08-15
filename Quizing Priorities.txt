@@ -1,7 +1,11 @@
 Things left on todos 
-	- Finish Score Keeping
+	- Getting Master Computer to work with all computers & on Network
+	- Wipping Necessary Variables on End Match
+	- Completing Score Correct
+	- Completing Score Incorrect
+	- Completing Err Out/ Quiz Out
+	- Update Bonus Questions
+	- Updating Replay Questions
 	- Finish Stats
-	- Finish Stat/match info Send functionality
-	- Ready to start Testing
-	- add randomization functionality for admin
-	- add match naming for andrew
+	- Finish Match Report Sending / Local Copies
+	- More testing
